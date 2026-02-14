@@ -2,28 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2563EB,100:06B6D4&height=220&section=header&text=Lý%20Thuận%20An&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- ===== Tagline ===== -->
 <p align="center">
-  AI Engineer · Backend Developer · Mobile Developer
+  <b>AI Engineer · Backend Developer · Mobile Developer</b>
 </p>
-
-<p align="center">
-  Designing and optimizing AI systems from research to production.
-</p>
-
----
-
-## About Me
-
-- IT student passionate about real-world systems  
-- Focused on AI optimization  
-- Developing cross-platform mobile apps  
-- Building custom AI tools  
-- Long-term goal: AI systems optimized for edge & production environments  
-
----
-
-## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,6 +12,18 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+<p align="center">
+  <i>Designing and optimizing AI systems from research to production.</i>
+</p>
+
+<p align="center">
+  <a href="#project-highlights">Projects</a> ·
+  <a href="#current-focus">Current Focus</a> ·
+  <a href="#featured-interests">Interests</a> ·
+  <a href="#github-stats">Stats</a> ·
+  <a href="#connect">Connect</a>
 </p>
 
 ---
