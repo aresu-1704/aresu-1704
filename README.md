@@ -82,10 +82,6 @@
   <a href="https://github.com/aresu-1704">
     <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-   <a href="https://www.kaggle.com/aresusayhi">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
 </p>
 
 ---
