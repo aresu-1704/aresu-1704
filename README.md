@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <i>Software Engineer with knownledge in AI.</i>
+  <i>IT - Researcher</i>
 </p>
 
 <p align="center">
